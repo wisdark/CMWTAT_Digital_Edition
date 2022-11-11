@@ -2,11 +2,11 @@
 
 [https://cmwtat.cloudmoe.com]
 
-# CloudMoe Windows 10 Activation Toolkit Digital Edition
+# CloudMoe Windows 10+ Activation Toolkit Digital Edition
 
-This toolkit can activate your windows 10 use digital license.
+This toolkit can activate your Windows 10 and Windows 11 use digital license.
 
-一款使用`CSharp`编写的 `Windows 10` 数字权利激活工具。
+一款使用`CSharp`编写的 `Windows 10` 和 `Windows 11` 数字权利激活工具。
 
 ![UI界面截图][UI_image]
 
@@ -14,7 +14,7 @@ This toolkit can activate your windows 10 use digital license.
 
 ## Getting started 入门
 
-### 使用自动模式激活 `Windows 10`
+### 使用自动模式激活 `Windows 10` 或 `Windows 11`
 
 ##### English Version
 
@@ -38,9 +38,9 @@ This toolkit can activate your windows 10 use digital license.
 
 ## Advanced 进阶
 
-### 在不同版本 `Windows 10` 之间转换
+### 在不同版本 `Windows` 之间转换
 
-* 注意: 目前已知 `Windows 10` 的 `专业版（Professional）`、`专业工作站版（ProfessionalWorkstation）`、`教育版（Education）`、`专业教育版（ProfessionalEducation）`、`企业版（Enterprise）` 之间可以进行互相转换（N版本与LTSB版本除外），而这些版本与`家庭版（Core）`均不能一键转换，如需转换请使用 `Windows设置` 中的 `更改产品密钥` 功能进行升级。
+* 注意: 目前已知 `Windows` 的 `专业版（Professional）`、`专业工作站版（ProfessionalWorkstation）`、`教育版（Education）`、`专业教育版（ProfessionalEducation）`、`企业版（Enterprise）` 之间可以进行互相转换（N版本与LTSB版本除外），而这些版本与`家庭版（Core）`均不能直接一键转换，如需转换请使用 2.6 版本新增的 `升级到完整版 Windows` 功能或使用 `Windows设置` 中的 `更改产品密钥` 功能进行升级。
 
 ##### `Auto Mode` 自动模式
 
@@ -66,7 +66,7 @@ This toolkit can activate your windows 10 use digital license.
 
 5. 完成。
 
-### 通过 `Manual Mode` 手动模式激活不在列表中的 `Windows 10` 版本
+### 通过 `Manual Mode` 手动模式激活不在列表中的 `Windows` 版本
 
 * 注意:  此方法不适用于某些版本的激活，如 `专业教育版（ProfessionalEducation）` ，即使你输入了对应的OEM零售密钥。
 
@@ -92,10 +92,6 @@ This toolkit can activate your windows 10 use digital license.
 # License 许可协议
 
 [GPL-2.0](./LICENSE)
-
-# Thanks 感谢
-
-* Thanks for s1ave77 (Basic logic) and vyvojar (SLC.DLL)
 
 # Contributors 贡献者
 
